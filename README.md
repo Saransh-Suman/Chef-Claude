@@ -30,14 +30,13 @@ keys.
 ## 📁 Project Structure
 
     chef-claude/
-    │
+    ├── public/
+    │   ├── images/
     ├── src/
     │   ├── components/
     │   ├── App.jsx
     │   └── main.jsx
     │
-    ├── public/
-    ├── .env.example
     ├── .gitignore
     ├── index.html
     ├── package.json
