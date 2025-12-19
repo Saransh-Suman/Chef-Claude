@@ -1,7 +1,6 @@
-import React, { useEffect, useRef, useState } from "react"
+import { useEffect, useRef, useState } from "react"
 import ClaudeRecipeComponent from "./ClaudeRecipeComponent"
 import IngredientsListComponent from "./IngredientsListComponent"
-import { HfInference } from "@huggingface/inference"
 import {getRecipeFromMistral} from "./ai"
 export default function ChefClaudeMainUsingRefs() {
 
