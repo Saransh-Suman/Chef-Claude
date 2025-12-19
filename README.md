@@ -76,9 +76,9 @@ The app runs at:
 
   Command           Description
   ----------------- --------------------------
-  npm run dev       Start development server
-  npm run build     Build for production
-  npm run preview   Preview production build
+  npm run dev       Start development server\
+  npm run build     Build for production\
+  npm run preview   Preview production build\
 
 ------------------------------------------------------------------------
 
